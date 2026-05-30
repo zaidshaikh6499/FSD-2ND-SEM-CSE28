@@ -1,5 +1,5 @@
 let employees = [];
-
+// updated
 function addEmployee() {
 
     let name = document.getElementById("name").value;

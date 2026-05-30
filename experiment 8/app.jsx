@@ -19,7 +19,7 @@ function App() {
  
   return ( 
     <> 
-      <h2>React Counter Application</h2> 
+      <h2>React Counter Application.</h2> 
  
       <h2>{count}</h2> 
  

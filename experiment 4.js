@@ -8,7 +8,7 @@ function calculateResult() {
     if (isNaN(marks)) marks = 0; // handle empty input
     total += marks;
   }
-
+// updated
   let average = total / n;
   let grade;
   let result;
